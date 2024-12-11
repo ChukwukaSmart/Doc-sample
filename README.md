@@ -28,3 +28,7 @@ return 2 + 2
 > and Mr Smart
 
 You can preview the project [here](https://tech365.ng 'tech365 website')
+
+- **Name:** John Doe
+- **Email:** johndoe@example.com
+- **Age:** 30
